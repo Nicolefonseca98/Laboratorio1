@@ -3,8 +3,6 @@ package laboratorio1;
 
 import java.net.URL;
 import java.util.ArrayList;
-import java.util.Hashtable;
-import java.util.List;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
@@ -38,8 +36,6 @@ public class FXMLDocumentController implements Initializable {
      
        operacion.setValue("Seleccione operación");
        operacion.getItems().add("Suma");
-       
-       Hashtable<String,String> a = new Hashtable<>();
        
         
     }   
