@@ -7,6 +7,6 @@ package laboratorio1;
  */
 public enum Frutas {
     
-    Manzana,Pera, Limón, Melón, Naranja;
+    MANZANA, PERA, LIMÓN , MELÓN, NARANJA;
     
 }
