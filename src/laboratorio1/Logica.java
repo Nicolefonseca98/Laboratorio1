@@ -1,8 +1,6 @@
 
 package laboratorio1;
 
-import static Lista.ListaFrutas.listaFrutas;
-
 /**
  *
  * @author Nicole
@@ -59,9 +57,5 @@ public class Logica {
         }
         return resultado;
     }
-    
-    public void agregarFrutas(String nuevaFruta) {
-        
-        listaFrutas.add(nuevaFruta);
-    }
+   
 }
