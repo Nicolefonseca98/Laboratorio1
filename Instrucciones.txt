@@ -1,0 +1,11 @@
+Instrucciones:
+Calcu-Frutadora
+La primer fruta se pone al azar
+La segunda fruta debe ser seleccionada por el usuario
+Después se selecciona la operación "suma" y se presiona el botón aplicar
+Devuelve el resultado de la suma entre las dos frutas, además, la primer fruta
+que al principio fue al azar, es reemplazada por el nuevo resultado, para así realizar una nueva suma
+
+Agregar fruta:
+Se introduce el nombre de la nueva fruta en el campo de texto y se presiona el botón agregar para 
+guardar la nueva fruta.
